@@ -1,4 +1,4 @@
-<img src="https://github.com/swaraj961/swaraj961/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
+<img src="https://github-readme-stats.vercel.app/api?username=swaraj961&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 ## :octocat: Welcome 👋
 
