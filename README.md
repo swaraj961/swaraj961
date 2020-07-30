@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=swaraj961&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=swaraj961&&show_icons=true&title_color=ffffff&icon_color=fff600&text_color=daf7dc&bg_color=191919">
 
 ## :octocat: Welcome 👋
 
