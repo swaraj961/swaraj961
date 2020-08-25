@@ -1,5 +1,13 @@
 ![Swaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swaraj961&count_private=true&show_icons=true&theme=algolia )
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+
+
 ## :octocat: Welcome 👋
 
 I'm Swaraj Kumar Routray pursuing my engineering in the field of information technology from University School of Information, Communication, and Technology, I am a Flutter developer and UI developer.Fields like  Open Source, blockchain, Networking,  App Development, Cybersecurity, Excites me a lot. 
