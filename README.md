@@ -8,7 +8,7 @@
 
 
 
-## :octocat: Welcome 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaraj961&label=Views&color=blue&style=plastic" alt="swaraj961" /> </p>
+## :octocat: Welcome 👋 
 
 I'm Swaraj Kumar Routray pursuing my engineering in the field of information technology from University School of Information, Communication, and Technology, I am a Flutter developer and UI developer.Fields like  Open Source, blockchain, Networking,  App Development, Cybersecurity, Excites me a lot. 
 
@@ -21,4 +21,4 @@ Flutter 💙| Dart🎯| Bootstrap🌈 | UX/UX✨ | Networking 🌐 | Php 📜 | 
 
 [![Twitter: swaraj961](https://img.shields.io/twitter/follow/swaraj961?style=social)](https://twitter.com/swaraj961) [![GitHub swaraj961](https://img.shields.io/github/followers/swaraj961?label=follow&style=social)](https://github.com/swaraj961)
 [![Linkedin Badge](https://img.shields.io/badge/-SwarajRoutray-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swaraj961/)](https://www.linkedin.com/in/swaraj961/) [![Facebook Badge](https://img.shields.io/badge/-SwarajRoutray-3D5B99?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nipul.singal.7)](https://www.facebook.com/swaraj.routray.83) [![Gmail Badge](https://img.shields.io/badge/-SwarajRoutray-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swarajroutray961@gmail.com)](mailto:swarajroutray961@gmail.com)
-[![website](https://img.shields.io/badge/Swaraj-Portfolio-2648ff?style=flat-square&logo=google-chrome)](https://swaraj-portfolio.web.app/)
+[![website](https://img.shields.io/badge/Swaraj-Portfolio-2648ff?style=flat-square&logo=google-chrome)](https://swaraj-portfolio.web.app/) <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaraj961&label=Views&color=blue&style=plastic" alt="swaraj961" /> </p>
