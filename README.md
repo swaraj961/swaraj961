@@ -1,20 +1,24 @@
 ![Swaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swaraj961&count_private=true&show_icons=true&theme=algolia )
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+### Languages & Tools
+
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
 
-## :octocat: Welcome 👋 
+
+ ### Hey there, I'm Swaraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm Swaraj Kumar Routray pursuing my engineering in the field of information technology from University School of Information, Communication, and Technology, I am a Flutter developer and UI developer.Fields like  Open Source, blockchain, Networking,  App Development, Cybersecurity, Excites me a lot. 
-
-### Tech Stack 👨‍💻
-Flutter 💙| Dart🎯| Bootstrap🌈 | UX/UX✨ | Networking 🌐 | Php 📜 | Firebase 🔥
-
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 - 🌱 I’m currently learning Flutter Backend stuff, and exploring complex apps.
 - 👯 I’m looking to collaborate on amazing Flutter or web projects. 
 - 💬 Ask me about anything, I'm up for a chat .
