@@ -26,3 +26,8 @@ I am a Flutter developer and Frontend Web developer.
 [![Twitter: swaraj961](https://img.shields.io/twitter/follow/swaraj961?style=social)](https://twitter.com/swaraj961) [![GitHub swaraj961](https://img.shields.io/github/followers/swaraj961?label=follow&style=social)](https://github.com/swaraj961)
 [![Linkedin Badge](https://img.shields.io/badge/-SwarajRoutray-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swaraj961/)](https://www.linkedin.com/in/swaraj961/)  [![Gmail Badge](https://img.shields.io/badge/-SwarajRoutray-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swarajroutray961@gmail.com)](mailto:swarajroutray961@gmail.com)
 [![website](https://img.shields.io/badge/Swaraj-Portfolio-2648ff?style=flat-square&logo=google-chrome)](https://swaraj-portfolio.web.app/) <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaraj961&label=Profile Views&color=blue&style=plastic" alt="swaraj961" /> </p>
+
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/swaraj961/swaraj961/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
