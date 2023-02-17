@@ -18,8 +18,7 @@
 
 
  ### Hey there, I'm Swaraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-I'm Swaraj Kumar Routray pursuing currently Working as a Fullstack developer at BNY Mellon 
+ 
 
 - 🌱 I’m currently learning SpringBoot and Angular.
 - 💬 Feel fee to ask me about anything, I'm up for a chat .
