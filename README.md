@@ -19,11 +19,9 @@
 
  ### Hey there, I'm Swaraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Swaraj Kumar Routray pursuing my engineering in the field of information technology from University School of Information Communication and Technology 
-I am a Flutter developer and Frontend Web developer.
+I'm Swaraj Kumar Routray pursuing currently Working as a Fullstack developer at BNY Mellon 
 
-- 🌱 I’m currently learning Reactjs and Nodejs.
-- 👯 I’m looking to collaborate on amazing Flutter or web projects. 
+- 🌱 I’m currently learning SpringBoot and Angular.
 - 💬 Feel fee to ask me about anything, I'm up for a chat .
 
 [![Twitter: swaraj961](https://img.shields.io/twitter/follow/swaraj961?style=social)](https://twitter.com/swaraj961) [![GitHub swaraj961](https://img.shields.io/github/followers/swaraj961?label=follow&style=social)](https://github.com/swaraj961)
