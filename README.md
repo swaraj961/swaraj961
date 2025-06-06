@@ -20,7 +20,8 @@
  ### Hey there, I'm Swaraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
 
-- 🌱 I’m currently learning SpringBoot and Angular.
+- 🌱 I’m a self-motivated team player and a quick learner with a passion for building scalable, user-centric software solutions. With over 3 years of hands-on development experience.
+- 💻 I’ve worked across the full stack using a diverse set of technologies including React, Angular, TypeScript, React Native, Flutter, Spring Boot, and microservices architecture..
 - 💬 Feel fee to ask me about anything, I'm up for a chat .
 
 [![Twitter: swaraj961](https://img.shields.io/twitter/follow/swaraj961?style=social)](https://twitter.com/swaraj961) [![GitHub swaraj961](https://img.shields.io/github/followers/swaraj961?label=follow&style=social)](https://github.com/swaraj961)
